@@ -4,3 +4,4 @@ git clone https://github.com/MariemSlama/PFE
 e-a-r
 git add bashByMe.txt
 git status
+git push -u origin master
