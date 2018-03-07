@@ -1,0 +1,6 @@
+git config --global user.name "MariemSlama"
+git config --global user.email mariemslama1993@gmail.com
+git clone https://github.com/MariemSlama/PFE
+e-a-r
+git add bashByMe.txt
+git status
