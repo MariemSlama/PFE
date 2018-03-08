@@ -5,4 +5,5 @@ e-a-r
 git add bashByMe.txt
 git status
 git push -u origin master
+git commit -m "second commit" bashByMe.txt
 et maintenant om modifie depuis github
